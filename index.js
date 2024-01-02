@@ -207,13 +207,14 @@ generateBtn.addEventListener('click', () => {
     console.log("UI adddition done");
     //calculate strength
     calcStrength();
-}
+});
 
 
-);
 
 
-hello;
+
+
+
 
 
 
